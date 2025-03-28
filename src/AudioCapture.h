@@ -1,3 +1,8 @@
+/*
+ * Copyright 2025, Gerasim Troeglazov, 3dEyes@gmail.com
+ * Distributed under the terms of the MIT License.
+ */
+
 #ifndef AUDIO_CAPTURE_H
 #define AUDIO_CAPTURE_H
 

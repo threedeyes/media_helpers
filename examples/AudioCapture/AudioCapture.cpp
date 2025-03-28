@@ -1,3 +1,8 @@
+/*
+ * Copyright 2025, Gerasim Troeglazov, 3dEyes@gmail.com
+ * Distributed under the terms of the MIT License.
+ */
+
 #include <vector>
 #include <stdio.h>
 

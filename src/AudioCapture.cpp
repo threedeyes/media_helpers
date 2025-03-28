@@ -1,3 +1,8 @@
+/*
+ * Copyright 2025, Gerasim Troeglazov, 3dEyes@gmail.com
+ * Distributed under the terms of the MIT License.
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
